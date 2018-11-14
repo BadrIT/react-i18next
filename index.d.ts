@@ -37,8 +37,6 @@ export interface I18nContextValues {
   lng?: string;
 }
 
-export const I18nContext: ReactContext<I18nContextValues>;
-
 export interface WithI18n extends I18nContextValues {
   i18nOptions?: ReactI18NextOptions;
 }
