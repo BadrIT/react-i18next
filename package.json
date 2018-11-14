@@ -1,6 +1,6 @@
 {
   "name": "react-i18next-with-context",
-  "version": "8.3.8",
+  "version": "8.3.8-cntxt-fix",
   "description": "Internationalization for react done right. Using the i18next i18n ecosystem.",
   "main": "dist/commonjs/index.js",
   "types": "index.d.ts",
@@ -21,7 +21,7 @@
   "bugs": "https://github.com/i18next/react-i18next/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/i18next/react-i18next.git"
+    "url": "https://github.com/BadrIT/react-i18next.git"
   },
   "dependencies": {
     "@babel/runtime": "^7.1.2",
